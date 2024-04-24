@@ -21,7 +21,7 @@ SportsCar.prototype.constructor = SportsCar;
 
 // Method to get top speed of the sports car
 SportsCar.prototype.getTopSpeed = function() {
-    return this.topSpeed + ' mph';
+    return this.topSpeed //+ ' mph';
 };
 
 // Do not change the code below
